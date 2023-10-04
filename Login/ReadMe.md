@@ -1,6 +1,6 @@
 <h1>Login App</h1>
 
-App allows you to register a usernam and password, then login in using the same credentials. Information will be saved for next time you return to the app.
+App allows you to register a username and password, then login in using the same credentials. Information will be saved for next time you return to the app. App will deny you login if username and password don't match any of the saved credentials.
 
 <h1>Screenshots</h1>
 

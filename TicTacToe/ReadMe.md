@@ -1,6 +1,7 @@
 <h1>Toe Tac Toe Game</h1>
 Tic Tac Toe game created in Visual Studios using C++.
 <br>
+<h1>Screenshots</h1>
 
 ![Screenshot (241)](https://github.com/albertoalvaradojr/CPlusPlus_Projects/assets/65637580/d1261b7f-bef4-4ca5-81ac-c4a2bcc23366)
 

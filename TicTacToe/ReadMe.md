@@ -1,4 +1,4 @@
-#TicTacToe
+<h1>Toe Tac Toe Game</h1>
 Tic Tac Toe game created in Visual Studios using C++.
 <br>
 
